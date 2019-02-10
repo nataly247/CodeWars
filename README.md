@@ -1,1 +1,4 @@
 # CodeWars
+
+Python challenges solutions
+
